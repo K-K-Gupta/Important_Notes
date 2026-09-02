@@ -1,6 +1,15 @@
-# 📚 Placement Preparation Notes
+# Placement Preparation Notes
 
 My notes and resources for placement preparation.
+
+> **Important:** These notes are meant for **revision**, not for learning the topics from scratch. If you haven't watched the corresponding lectures/courses, the notes may be difficult to understand.
+> **First watch the lectures → understand the concepts → then use these notes for revision.**
+
+## Courses
+
+* **DBMS** — [Course / Lectures](https://www.scaler.com/topics/course/free-operating-system-course/)
+* **OS** — [Course / Lectures](https://www.scaler.com/topics/course/dbms/)
+* **LLD** — [Coder Army Course](https://www.youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT)
 
 ## Notes
 
