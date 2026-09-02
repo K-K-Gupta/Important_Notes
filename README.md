@@ -7,8 +7,8 @@ My notes and resources for placement preparation.
 
 ## Courses
 
-* **DBMS** — [Course / Lectures](https://www.scaler.com/topics/course/free-operating-system-course/)
-* **OS** — [Course / Lectures](https://www.scaler.com/topics/course/dbms/)
+* **DBMS** — [Course / Lectures](https://www.scaler.com/topics/course/dbms/)
+* **OS** — [Course / Lectures](https://www.scaler.com/topics/course/free-operating-system-course/)
 * **LLD** — [Coder Army Course](https://www.youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT)
 
 ## Notes
